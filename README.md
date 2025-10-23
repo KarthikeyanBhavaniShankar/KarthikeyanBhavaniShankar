@@ -45,8 +45,6 @@ Sensor Fusion • Localization • Control Systems • Digital Design • Embedd
  — GNSS/IMU fusion, ROS 2 node implementation, outdoor testing.  
 - 🧮 [ElevatorSystemGUI](https://github.com/KarthikeyanBhavaniShankar/ElevatorSystemGUI) — Multi-threaded Java GUI for elevator scheduling simulation.  
 - 📊 [booksortingUI](https://github.com/KarthikeyanBhavaniShankar/booksortingUI) — Data-structures visualization tool in Python.  
-- ⚡ [SYSC4001 System Simulation](https://github.com/KarthikeyanBhavaniShankar/SYSC4001) — C++ interrupt-driven system for embedded course.
-
 ---
 
 ## 📊 GitHub Stats  
