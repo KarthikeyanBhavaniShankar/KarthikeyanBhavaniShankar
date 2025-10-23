@@ -37,10 +37,100 @@
 
 ---
 
-## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthikeyan%20Bhavani%20Shankar-blue?logo=linkedin)](https://www.linkedin.com/in/karthikeyan-bhavani-shankar/)  
-📧 **Email:** karthikeyanbhavanishankar@gmail.com  
+<!-- CONNECT WITH ME -->
+<h3>Connect with me:</h3>
+<p>
+  <a href="https://www.linkedin.com/in/karthikeyan-bhavani-shankar/" target="_blank">
+    <img alt="LinkedIn" title="LinkedIn"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         height="38" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- Replace with your Instagram handle or remove -->
+  <a href="https://instagram.com/your_handle" target="_blank">
+    <img alt="Instagram" title="Instagram"
+         src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg"
+         height="38" />
+  </a>
+</p>
 
----
+<!-- LANGUAGES & TOOLS -->
+<h3>Languages and Tools:</h3>
+<p>
+  <!-- C -->
+  <a href="https://en.cppreference.com/w/c" target="_blank">
+    <img alt="C" title="C"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+         height="38" />
+  </a>
+  &nbsp;
+  <!-- C++ -->
+  <a href="https://en.cppreference.com/w/" target="_blank">
+    <img alt="C++" title="C++"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+         height="38" />
+  </a>
+  &nbsp;
+  <!-- Python -->
+  <a href="https://www.python.org/" target="_blank">
+    <img alt="Python" title="Python"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+         height="38" />
+  </a>
+  &nbsp;
+  <!-- Java -->
+  <a href="https://www.java.com/" target="_blank">
+    <img alt="Java" title="Java"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+         height="38" />
+  </a>
+  &nbsp;
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
+    <img alt="JavaScript" title="JavaScript"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+         height="38" />
+  </a>
+  &nbsp;
+  <!-- HTML5 -->
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
+    <img alt="HTML5" title="HTML5"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+         height="38" />
+  </a>
+  &nbsp;
+  <!-- CSS3 -->
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
+    <img alt="CSS3" title="CSS3"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+         height="38" />
+  </a>
+  &nbsp;
+  <!-- React -->
+  <a href="https://react.dev/" target="_blank">
+    <img alt="React" title="React"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+         height="38" />
+  </a>
+  &nbsp;
+  <!-- Node.js -->
+  <a href="https://nodejs.org/" target="_blank">
+    <img alt="Node.js" title="Node.js"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+         height="38" />
+  </a>
+  &nbsp;
+  <!-- Express -->
+  <a href="https://expressjs.com/" target="_blank">
+    <img alt="Express" title="Express"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+         height="38" />
+  </a>
+  &nbsp;
+  <!-- Django -->
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img alt="Django" title="Django"
+         src="https://cdn.jsdelivr.net/gh/devicon
+
 
 > _“Engineering is where code meets circuits — and creativity meets precision.”_
