@@ -62,13 +62,6 @@ Sensor Fusion • Localization • Control Systems • Digital Design • Embedd
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
          height="38" />
   </a>
-  &nbsp;&nbsp;
-  <!-- Replace with your Instagram handle or remove -->
-  <a href="https://instagram.com/your_handle" target="_blank">
-    <img alt="Instagram" title="Instagram"
-         src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg"
-         height="38" />
-  </a>
 </p>
 
 <!-- LANGUAGES & TOOLS -->
@@ -147,7 +140,65 @@ Sensor Fusion • Localization • Control Systems • Digital Design • Embedd
   <!-- Django -->
   <a href="https://www.djangoproject.com/" target="_blank">
     <img alt="Django" title="Django"
-         src="https://cdn.jsdelivr.net/gh/devicon
-
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
+         height="38" />
+  </a>
+  &nbsp;
+  <!-- ROS -->
+  <a href="https://www.ros.org/" target="_blank">
+    <img alt="ROS" title="ROS"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg"
+         height="38" />
+  </a>
+  &nbsp;
+  <!-- MATLAB -->
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+    <img alt="MATLAB" title="MATLAB"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"
+         height="38" />
+  </a>
+  &nbsp;
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img alt="Git" title="Git"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+         height="38" />
+  </a>
+  &nbsp;
+  <!-- Linux -->
+  <a href="https://www.linux.org/" target="_blank">
+    <img alt="Linux" title="Linux"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+         height="38" />
+  </a>
+  &nbsp;
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img alt="PostgreSQL" title="PostgreSQL"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+         height="38" />
+  </a>
+  &nbsp;
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank">
+    <img alt="MySQL" title="MySQL"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+         height="38" />
+  </a>
+  &nbsp;
+  <!-- TensorFlow -->
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img alt="TensorFlow" title="TensorFlow"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
+         height="38" />
+  </a>
+  &nbsp;
+  <!-- NVIDIA / Jetson -->
+  <a href="https://developer.nvidia.com/embedded-computing" target="_blank">
+    <img alt="NVIDIA Jetson" title="NVIDIA Jetson"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nvidia/nvidia-original.svg"
+         height="38" />
+  </a>
+</p>
 
 > _“Engineering is where code meets circuits — and creativity meets precision.”_
