@@ -1,6 +1,3 @@
-![Header Image](https://your-image-link-here.com/header.png)
-
-
 # 👋 Hi, I'm Karthikeyan Bhavani Shankar
 
 🎓 4th-year Computer Systems Engineering student at Carleton University (Co-op Option)  
