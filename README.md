@@ -1,6 +1,3 @@
-<!-- Banner / Header Image -->
-![Header Image](https://your-image-link-here.com/header.png)
-
 # 👋 Hello, I’m Karthikeyan Bhavani Shankar 
 
 **Embedded Systems & Robotics Engineer** | 4th-year Computer Systems Engineering at Carleton University  
@@ -9,19 +6,39 @@
 ---
 
 ## 🔭 What I Do  
-- Developed a real-time **GNSS + IMU localization & navigation stack** in ROS 2, deployed on NVIDIA Jetson AGX Orin.  
-- Passionate about sensor fusion, embedded hardware, control systems and making robots smarter.  
-- Always exploring new tools in hardware design, machine learning integration & real-world systems.
+- Build intelligent embedded systems that merge **hardware control**, **real-time software**, and **machine learning**.  
+- Designed and deployed a **GNSS + IMU localization and navigation stack** on **NVIDIA Jetson AGX Orin** using **ROS 2 Humble** and an **Extended Kalman Filter**, reducing positional drift by 80 %.  
+- Automate and optimize embedded workflows through **Linux systemd services**, **SSH tunneling**, and **ROS diagnostics**.  
+- Experienced in developing **multi-threaded Java simulations**, **graphical interfaces**, and **data-driven applications**.  
+- Passionate about **sensor fusion**, **control systems**, and the intersection of **AI + robotics** to create efficient autonomous platforms.  
 
 ---
 
-## 🛠 My Skills  
-**Languages:** C++, Python, Java, Verilog, Go  
-**Frameworks & Tools:** ROS 2, Nav2, Gazebo, MATLAB, Git, VS Code  
-**Hardware:** Jetson AGX Orin, u-blox ZED-F9R GNSS, IMUs, Pololu ToF sensors  
-**Concepts:** Sensor Fusion, Localization, Control Systems, Digital & Embedded Design
+## 🧠 My Skills  
+
+**Programming Languages**  
+C / C++, Python, Java, JavaScript, SQL, VHDL, Verilog, Go  
+
+**Frameworks & Libraries**  
+ROS 2 (Nav2, RViz2), TensorFlow, Keras, Flask, React, Node.js, Django, Pygame, JavaFX  
+
+**Cloud / DevOps**  
+AWS | GCP | Jenkins | SSH Tunneling | Ubuntu Linux Administration  
+
+**Data & Visualization**  
+pandas | NumPy | Matplotlib | PostgreSQL | SQLite  
+
+**Hardware & Embedded**  
+Jetson AGX Orin | u-blox ZED-F9R GNSS | IMUs | Pololu VL53L1X ToF Sensors | FPGA Design  
+
+**Developer Tools**  
+IntelliJ IDEA | VS Code | PyCharm | Eclipse | Git/GitHub | Linux Monitoring Tools  
+
+**Core Competencies**  
+Sensor Fusion • Localization • Control Systems • Digital Design • Embedded Architecture • Machine Learning Integration  
 
 ---
+
 
 ## 📂 Selected Projects  
 - 🎓 [Autonomous Navigation System (Capstone)](https://github.com/Carleton-AAV-Capstone/Navigation) — GNSS/IMU fusion, ROS 2 node implementation, outdoor testing.  
