@@ -1,9 +1,5 @@
-# 👋 Hello, I’m Karthikeyan Bhavani Shankar 
+![Header Image](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/A_2D_digital_graphic_design_features_a_welcoming_b.png)
 
-**A passionate full-stack developer** | 4th-year Computer Systems Engineering at Carleton University  
-
-
----
 
 ## 🔭 What I Do  
 - Build intelligent embedded systems that merge **hardware control**, **real-time software**, and **machine learning**.  
