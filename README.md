@@ -1,7 +1,7 @@
 # 👋 Hello, I’m Karthikeyan Bhavani Shankar 
 
-**Embedded Systems & Robotics Engineer** | 4th-year Computer Systems Engineering at Carleton University  
-🚀 Recently completed a full autonomous navigation system for an AV platform.
+**A passionate full-stack developer** | 4th-year Computer Systems Engineering at Carleton University  
+
 
 ---
 
