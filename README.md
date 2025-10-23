@@ -1,6 +1,10 @@
-![Header Image](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/A_2D_digital_graphic_design_features_a_welcoming_b.png)
+# 👋 Hi, I'm Karthikeyan Bhavani Shankar
 
+🎓 4th-year Computer Systems Engineering student at Carleton University (Co-op Option)  
+💡 Passionate about hardware-software integration, embedded systems, and autonomous technology  
+🚀 Exploring the intersection of intelligent automation, robotics, and data-driven engineering  
 
+---
 ## 🔭 What I Do  
 - Build intelligent embedded systems that merge **hardware control**, **real-time software**, and **machine learning**.  
 - Designed and deployed a **GNSS + IMU localization and navigation stack** on **NVIDIA Jetson AGX Orin** using **ROS 2 Humble** and an **Extended Kalman Filter**, reducing positional drift by 80 %.  
