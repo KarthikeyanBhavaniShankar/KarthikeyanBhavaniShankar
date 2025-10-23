@@ -52,7 +52,10 @@ Sensor Fusion • Localization • Control Systems • Digital Design • Embedd
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikeyanBhavaniShankar&layout=compact&theme=radical)  
 
 ---
+[🌐 Visit my portfolio](https://KarthikeyanBhavaniShankar.github.io)
 
+
+--- 
 <!-- CONNECT WITH ME -->
 <h3>Connect with me:</h3>
 <p>
