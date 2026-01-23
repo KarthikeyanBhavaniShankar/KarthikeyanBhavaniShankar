@@ -1,5 +1,6 @@
-# 👋 Hi, I'm Karthikeyan Bhavani Shankar
+## 👋 About Me:
 
+👋 Hi, I'm Karthikeyan Bhavani Shankar
 🎓 4th-year Computer Systems Engineering student at Carleton University 
 💡 Passionate about hardware-software integration, embedded systems, and autonomous technology  
 🚀 Exploring the intersection of intelligent automation, robotics, and data-driven engineering  
