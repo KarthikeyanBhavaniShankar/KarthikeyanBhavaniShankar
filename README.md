@@ -1,4 +1,4 @@
-## 👋 About Me:
+## 👋 About Me
 
 👋 Hi, I'm Karthikeyan Bhavani Shankar
 🎓 4th-year Computer Systems Engineering student at Carleton University 
