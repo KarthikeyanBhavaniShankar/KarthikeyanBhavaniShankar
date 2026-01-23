@@ -14,7 +14,7 @@
 
 ---
 
-## 🧠 My Skills  
+## 🧠 My Technical Skills  
 
 **Programming Languages**  
 C / C++, Python, Java, JavaScript, SQL, VHDL, Verilog, Go  
