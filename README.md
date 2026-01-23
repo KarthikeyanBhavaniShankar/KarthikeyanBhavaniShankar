@@ -35,12 +35,12 @@ Jetson AGX Orin | u-blox ZED-F9R GNSS | IMUs | Pololu VL53L1X ToF Sensors | FPGA
 IntelliJ IDEA | VS Code | PyCharm | Eclipse | Git/GitHub | Linux Monitoring Tools  
 
 **Core Competencies**  
-Sensor Fusion • Localization • Control Systems • Digital Design • Embedded Architecture • Machine Learning Integration  
+Sensor Fusion | Localization | Control Systems | Digital Design | Embedded Architecture | Machine Learning Integration  
 
 ---
 
 
-## 📂 Selected Projects  
+## 📂 Technical Projects  
 - 🎓 [Autonomous Navigation System (Capstone)](https://github.com/Carleton-AAV-Capstone/GNSS)
  — GNSS/IMU fusion, ROS 2 node implementation, outdoor testing.  
 - 🧮 [ElevatorSystemGUI](https://github.com/KarthikeyanBhavaniShankar/ElevatorSystemGUI) — Multi-threaded Java GUI for elevator scheduling simulation.  
