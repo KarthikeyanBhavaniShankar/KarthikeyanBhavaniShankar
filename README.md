@@ -45,7 +45,8 @@ Sensor Fusion | Localization | Control Systems | Digital Design | Embedded Archi
 - 🎓 [Autonomous Navigation System (Capstone)](https://github.com/Carleton-AAV-Capstone/GNSS) — GNSS/IMU fusion, ROS 2 node implementation, outdoor testing.  
 - 🧮 [ElevatorSystemGUI](https://github.com/KarthikeyanBhavaniShankar/ElevatorSystemGUI) — Multi-threaded Java GUI for elevator scheduling simulation.  
 - 📊 [booksortingUI](https://github.com/KarthikeyanBhavaniShankar/booksortingUI) — Data-structures visualization tool in Python.
-- 🏃 [Fitness Tracker]([https://github.com/KarthikeyanBhavaniShankar/fitness-tracker)](https://github.com/KarthikeyanBhavaniShankar/FitnessTrackingMachine) — Full-stack personal fitness tracking web app inspired by Apple Fitness, featuring activity rings, goal tracking, and interactive analytics dashboards.
+- 🏃 [FitnessTrackingMachine](https://github.com/KarthikeyanBhavaniShankar/FitnessTrackingMachine) — Full-stack personal fitness tracking web app inspired by Apple Fitness, featuring activity rings, goal tracking, and interactive analytics dashboards.
+
 
 
 ---
